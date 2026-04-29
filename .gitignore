@@ -1,0 +1,4 @@
+# .gitignore
+hostel_management
+*.o
+*.out
